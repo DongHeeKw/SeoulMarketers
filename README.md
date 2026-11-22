@@ -35,3 +35,8 @@ Next.js + TypeScript + React Three Fiber/Three.js; PostGIS + Python ETL; Vercel 
 - 완료: 요구사항/기술 규약/학습 계획 문서 및 오리지널 SVG
 - 미완료: 앱 코드, 실제 데이터 계약 검증, TDD 실행 로그, Three.js 실제 렌더러, 자동화 CI, Vercel 배포
 - 개발 프로세스: Agent가 테스트 작성→실패 로그→구현→테스트 통과 증명→코드 읽기 문서 제공. 창업자는 기술 승인 부담 없이 학습 및 제품 의견 제공.
+
+## Mobile-first · 독립 앱 구조 (2026-11-22)
+**이 저장소는 나머지 두 프로젝트와 별도 앱이다.** 데스크톱에 맞춘 기존 시각 레퍼런스는 디자인 무드 참고용이며 모바일 단일 화면에 모든 통계·지도·필터를 넣지 않는다.
+
+- [모바일 우선 페이지 흐름 · 라우팅 · 태블릿/PC 배치 · TDD 검증](docs/25_MOBILE_FIRST_INFORMATION_ARCHITECTURE.md)
