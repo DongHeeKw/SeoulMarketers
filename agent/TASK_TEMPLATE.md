@@ -1,0 +1,24 @@
+# Task Template
+
+- Task ID:
+- Project: SeoulMarketers
+- Customer problem:
+- Requirement IDs:
+- Business rules with examples:
+- Scope / Out of scope:
+- Inputs, units, time zones:
+- Outputs, uncertainty/provenance:
+- Data source / license / required API:
+- Dependencies and failure modes:
+- Architecture impact:
+- RED test names and expected failures:
+- GREEN implementation:
+- REFACTOR constraints:
+- Test commands, actual exit codes and logs:
+- Accessibility/mobile check:
+- Privacy/security/compliance:
+- Definition of Done:
+- Files to read in order:
+- User study exercise (non-gating):
+- Rollback plan:
+- Product decision required? If yes, give 2-3 concrete options.
